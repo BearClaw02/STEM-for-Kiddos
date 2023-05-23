@@ -1,0 +1,36 @@
+body{
+	/* makes the baground have a gradient that is red white and blue*/
+	background: linear-gradient(to right, #be0903, #faf9f9, #003caa);
+}
+
+h1{
+	/* MAkes the text with the h1 tag blue and sets the family*/
+	color: #008cff;
+	text-shadow:0 0 2px aqua;
+	font-family: times new roman, arial;
+}
+
+h2{
+	/* MAkes the text with the h2 tag blue and sets the family*/
+	color: #008cff;;
+	text-shadow:0 0 2px blue;
+	font-family: times new roman, arial;
+}
+
+h3{
+	/* MAkes the text with the h3 tag blue and sets the family*/
+	color: #008cff;;
+	text-shadow:0 0 2px blue;
+	font-family: times new roman, arial;
+}
+
+p{
+	/* MAkes the text with the p tag black and sets the family*/
+	color: #000000;;
+	text-shadow:0 0 2px purple;
+	font-family: times new roman, arial;
+}
+
+a:visited{
+	color: aqua;
+}
